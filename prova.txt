@@ -1,3 +1,4 @@
-ciao, file vuoto
+ciao, file vuoto, inutile
 
 aggiungo qualcosa
+aggiungo una riga al primo file
